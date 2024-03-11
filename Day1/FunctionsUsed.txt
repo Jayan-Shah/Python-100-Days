@@ -1,0 +1,55 @@
+// Used for Coding statement
+# Used for explaination
+
+# Coding tools used in python for Day 1 and errors faced and how they were resolved
+// print("")
+# print is the function used to display on the output screen
+# Double parenthesis shows that it is a function
+# Double Quotes are used to seperate coding statements from normal text which we want to print
+
+# Error Debugging: Just google the error and check previous such errors made by other programmers
+# Websites like Stack Overflow you an edge
+
+// print("print("What to print")")
+# It will throw error as double quotes inside double quotes is syntax error
+# To print above statement you need to write statement as
+// print('print("What to print")')
+#Use '' and "" both to print a fucntion as output within function
+
+# Check indentation whenever you write code in python
+# print("Hello" + "Jayan")
+Output: HelloJayan
+Concatenation of Strings is assigned to operator '+' but no space is comes to between words by default
+
+# Input function
+// input(prompt)
+// input("What is your name")
+# Take care when you type the prompt message to show on output cursor does not go to next line by default 
+like print function
+# So use "\n" for cursor to go on next line
+# Input function takes value and store in string format
+
+#######
+For Debugging step by step and see working of the code we can use
+"Thonny Site"
+#######
+
+// len(String "" or variable having string)
+# It returns the value of number of charactes present in the string 
+# TAKE CARE when you use len function space is also calculated as character
+
+# Variable Name
+- Choose variable name as such that it makes sense and is understandable
+- No space allowed between words or else it throw syntax Error
+- No keywords allowed as variable name
+- Dont use numbers in your variable name
+
+
+
+
+
+
+
+
+
+
