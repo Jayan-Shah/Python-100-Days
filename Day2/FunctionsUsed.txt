@@ -1,0 +1,66 @@
+# Data Types
+
+# String
+// print("Hello"[0])
+# Index always start with 0. It will give output as H
+# This is known as subscripting
+
+# Integer
+# To write integer just assign numbers without "" and decimal point
+# For Large Integers just like you put commas you can put underscore for better understanding
+
+# Float
+# Decimal Values 
+// print(100/3)
+# It will give output as 33.(15 Decimal Points)
+
+#Boolean
+Value can be True or False
+
+# Type(Variable or data )
+It will give output of data type to user
+
+# Type Error
+"123" + 123
+# It wont concatenate as one string and one is integer
+# Compiler will throw Type Error
+// len(123)
+# Type Error as function len() expects string value and not integer value
+
+# Type Converion
+// input()
+# This function takes input in String format
+# To convert it into int or float we can type int(input())
+
+# If you take input as string by default and convert it into float
+// variable = input("")
+// variable = float(variable)
+// variable = str(variable)
+You cannot convert it into str it will remain in float itself
+
+# Priority
+PEMDAS
+()
+** 
+# (The one at left will be at priority) 
+* /
++ -
+
+// print(3*3+3/3-3)
+1 3*3
+2 3/3
+3 9+1
+4 10-3
+# Output : 7  
+
+// round(8/3,2)
+# Used to round off the decimal value and 
+# 2 after , is used to say till which decimal place answer will be
+
+// print(8//3)
+# Floor Division Simply gives you an integer answer
+
+# f-String
+f"Your Score is {Any data type variable}"
+
+ 
