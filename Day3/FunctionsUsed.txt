@@ -1,0 +1,34 @@
+// if condition :
+        Statement of ig block
+// else condition :
+        Statement of else block executed when if is not satisfied
+# else dont have any condition Statement
+
+// if Height ==120 :
+# It will compare whether height is equal to 120 or not
+// if Height = 120 :
+#  = operator assigns value and not compare between two so it throws error
+
+# In need to check more than one condition
+# We can use if elif 
+// if condition :
+// elif condition :
+// else condition :
+# First it checks if condition and if it is false then it go to elif function and check condition and further to else
+# We can use if condition without else 
+
+# Between two conditions of if we can use (and) (or) and (not)
+# For (and) all the conditions has to be true to enter the block
+# For (or) one of all the conditions has to be true to enter the block
+# In (not) if the condition is false it will convert to true and vice versa
+
+// String.count('character')
+# It gives the number of character present in a particular string
+# Take care count function is case sensitive 
+
+// String.lower() or String.upper()
+# It converts the entire string to lower case or upper case
+
+
+
+
