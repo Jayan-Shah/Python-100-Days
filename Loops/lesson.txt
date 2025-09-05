@@ -1,0 +1,27 @@
+- In list we can find maximum and minimum using function max() and min()
+
+// For Loop in lists
+for fruit in fruits:
+Here fruit will store every item member of list fruits one by one...
+Whenever you write in for loop then take care of indentation...
+
+// For Loop Range
+for number in range(a,b):
+- It include a and exclude b so if I write (1,10) it will have all numbers except 10...
+for number in range(a,b,c)
+- c is step by that is it will jump c numbers and go ahead...
+For example(1,10,3)
+O/p: 1,3,6,9
+
+// In string you cannot update letter as per you do in list even though you can access it as list...
+Example
+//
+name = 'Jayan'
+name[0] = 'K'
+print(name)
+- O/P : TypeError: 'str' object does not support item assignment
+//
+
+
+// In for loop you cannot change the counter inside the loop.. It works according to sequence so use while loop...
+// Shuffle fuinction is used only in lists
