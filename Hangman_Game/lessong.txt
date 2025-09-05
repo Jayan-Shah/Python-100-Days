@@ -1,0 +1,9 @@
+// You can use os module
+os.system('clear') in order to clear the output before during runtime on terminal or console....
+
+//If you want to import variables from other module use from the file and import the variable..
+- from xyz import variable1...
+
+// In order to print statement on same line you can use 'end' 
+- print("", end="")
+
