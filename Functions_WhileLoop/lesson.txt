@@ -1,0 +1,30 @@
+def is a keyword used to create a function...
+
+def my_function():
+my_function is a code block which has a particular task and performs some operations when called
+
+For example
+print() and len() functions we have been using are built in functions...
+
+So functions has main two things:
+- Declaring Functions 
+- Calling Functions
+Unless we call function nothing will be performed by the functions...
+
+Even when multiple instructions are there and we do not want to write it again and again we use functions...
+Save such information in a function and call it whenever needed....
+
+"Reoborgs World" : Use this to understand functions 
+
+Spaces vs Tab
+Spaces are used in python to indent the code...
+Tab sometimes show different indentation on different code editors and different computers...
+Even we cant mix spaces and tabs together
+
+
+While Loops:
+while something_is_true:
+    # Do something repeteadly
+Take care it does not enter into infinte loop
+
+
